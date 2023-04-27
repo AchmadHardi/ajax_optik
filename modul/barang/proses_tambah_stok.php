@@ -12,6 +12,7 @@
                 'msg'=>'Sukses menambah stok',
             );
         } else {
+            
             $response = array(
                 'class'=>'danger',
                 'icon'=>'error',
